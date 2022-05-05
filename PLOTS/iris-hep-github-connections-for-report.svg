@@ -28,7 +28,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1136"
      id="namedview17316"
      showgrid="false"
      fit-margin-top="5"
@@ -36,10 +36,10 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      inkscape:zoom="0.65555555"
-     inkscape:cx="712.5445"
+     inkscape:cx="434.91738"
      inkscape:cy="503.7052"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg17314" />
   <metadata
@@ -55,7 +55,7 @@
             <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -20573,5 +20573,5 @@
        id="tspan23044"
        style="stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
        x="552.66101"
-       y="23.234375">Number of GitHub comments on each repository by each IRIS-HEP member</tspan></text>
+       y="23.234375">Number of interactions on each GitHub repository by each IRIS-HEP member</tspan></text>
 </svg>
